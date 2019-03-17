@@ -6,6 +6,6 @@
 Foolow the path
 \messenger\messenger\serv.js
 ```
-npm run serv.js
+node serv.js
 ```
 Try to localhost:8080
