@@ -1,0 +1,4 @@
+﻿  messenger.cpp
+c:\users\pcuser\source\repos\messenger\messenger\messenger.cpp(124): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\pcuser\source\repos\messenger\messenger\messenger.cpp(130): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  messenger.vcxproj -> C:\Users\PCUSER\source\repos\messenger\Debug\messenger.exe
