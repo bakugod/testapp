@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "school project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakugod/hello.git"
+  },
+  "author": "bakugod",
+  "license": "ISC",
+  "homepage": "https://github.com/bakugod/hello#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+  }
+}
