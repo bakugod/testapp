@@ -4,11 +4,10 @@
   "description": "school project",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bakugod/hello.git"
+    "url": "git+https://github.com/bakugod/testapp"
   },
   "author": "bakugod",
   "license": "ISC",
-  "homepage": "https://github.com/bakugod/hello#readme",
   "dependencies": {
     "express": "^4.16.4",
   }
